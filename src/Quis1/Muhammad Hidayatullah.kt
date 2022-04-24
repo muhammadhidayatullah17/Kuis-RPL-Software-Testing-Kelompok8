@@ -53,5 +53,5 @@
    menyebutkan Manual Testing adalah pengujian yang dilakukan secara manual oleh QA. Dalam pengujiannya QA memeriksa semua
    fitur pada software , untuk memastikan ada atau tidaknya bug dalam software. Jadi menurut saya di saat banyaknya testing secara
    otomatis tidak perlu lagi melakukan testing secara manual untuk menghemat waktu, cepat dan efisiensi, dan Test Reusable.
-
+//t
  */
